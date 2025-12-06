@@ -1,5 +1,5 @@
 <h1 align="center"> Hello Dosto 👋, I'm Nitin Sangave </h1>
-<h3 align="center">Tchnical Engineer | DevOps Enthusiast | Cloud Learner </h3>
+<h3 align="center">Technical Engineer | DevOps Enthusiast | Cloud Learner </h3>
 
 ---
 
