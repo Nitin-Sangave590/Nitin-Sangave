@@ -1,5 +1,5 @@
 <h1 align="center"> Hello Dosto 👋, I'm Nitin Sangave </h1>
-<h3 align="center">Software Engineer | DevOps Enthusiast | Cloud Learner</h3>
+<h3 align="center">Tchnical Engineer | DevOps Enthusiast | Cloud Learner </h3>
 
 ---
 
@@ -39,20 +39,11 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=NitinSangave&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=NitinSangave&theme=tokyonight" />
-</p>
-
----
-
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://linkedin.com/in/your-profile"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
-  <a href="mailto:your_email@gmail.com"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
+  <a href="https://linkedin.com/nitin-sangave-96a042317"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="mailto:sangavenitin4@gmail.com"><img width="35px" src="https://cdn-icons-png.flaticon.com/512/281/281769.png"></a>
 </p>
 
 ⭐ *Show some love by starring my repositories!*
